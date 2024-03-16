@@ -1,0 +1,3 @@
+#include "bar.h"
+
+int bar(int x) { return (x + 5) / 3; }
